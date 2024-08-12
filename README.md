@@ -16,7 +16,7 @@ Speech Output: Uses eSpeak to vocalize responses.
 
 Invalid Input Storage: Stores queries that the assistant cannot handle in a file for future analysis.
 
-**Requirements**
+**#Requirements**
 
 C Compiler: Ensure you have a C compiler (e.g., GCC) to compile the code.
 
